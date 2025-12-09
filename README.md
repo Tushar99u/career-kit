@@ -49,8 +49,3 @@ Here are some screenshots of the application:
   ![Screenshot 4](4.png)
 - **Screenshot 5:**  
   ![Screenshot 5](5.png)
-
-## 6. Live Demo
-
-Check out the final deployed app on Vercel:  
-[https://ai-career-coach-peach.vercel.app/](https://ai-career-coach-peach.vercel.app/)
